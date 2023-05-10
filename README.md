@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daria Khrushch
 
-## Full Stack Developer
+## Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 I am driven by a passion for delivering high-quality web applications that encompass both the front-end and back-end aspects. I continuously strive for personal and professional growth, embracing the dynamic nature of web development and seeking opportunities to make a meaningful impact in the field.
 
